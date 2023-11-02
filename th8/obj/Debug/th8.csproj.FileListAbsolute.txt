@@ -1,0 +1,8 @@
+D:\Пьяник Матвей 115\th8\bin\Debug\th8.exe.config
+D:\Пьяник Матвей 115\th8\bin\Debug\th8.exe
+D:\Пьяник Матвей 115\th8\bin\Debug\th8.pdb
+D:\Пьяник Матвей 115\th8\obj\Debug\th8.csproj.AssemblyReference.cache
+D:\Пьяник Матвей 115\th8\obj\Debug\th8.csproj.SuggestedBindingRedirects.cache
+D:\Пьяник Матвей 115\th8\obj\Debug\th8.csproj.CoreCompileInputs.cache
+D:\Пьяник Матвей 115\th8\obj\Debug\th8.exe
+D:\Пьяник Матвей 115\th8\obj\Debug\th8.pdb
